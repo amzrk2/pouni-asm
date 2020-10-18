@@ -1,6 +1,8 @@
 *.exe
 *.lst
 *.obj
+*.doc
+*.docx
 
 Thumbs.db
 ehthumbs.db
